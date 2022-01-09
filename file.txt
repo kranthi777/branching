@@ -2,3 +2,5 @@ first commit
 
 edited in master
 dev commit
+
+merge revert
